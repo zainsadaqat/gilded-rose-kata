@@ -10,6 +10,17 @@
 - Tried DRY principle
 
 
+### How to use this project
+
+Cope and Paste the following commands to your terminal
+
+`git clone git@github.com:zainsadaqat/gilded-rose-kata.git`
+
+`cd gilded-rose-kata`
+
+`npm install`
+
+
 ### Code Screenshots
 
 - Use JS best practices to use const for arrays and objects instead of var
